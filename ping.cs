@@ -3,8 +3,7 @@ using Statement;
 
 namespace Replace.Number
 {
-  public class Program
-  {
+  public class Program{
     public int CreateNumberList(int _userNumber)
     {
       //List<string> numberList = new List<string> {};
@@ -25,9 +24,8 @@ namespace Replace.Number
         else
         {
           Console.WriteLine(i);
-        }  
+        }
       }
     }
   }
 }
-
