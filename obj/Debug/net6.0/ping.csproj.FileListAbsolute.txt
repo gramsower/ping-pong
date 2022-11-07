@@ -1,0 +1,5 @@
+C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\obj\Debug\net6.0\ping.csproj.AssemblyReference.cache
+C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\obj\Debug\net6.0\ping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\obj\Debug\net6.0\ping.AssemblyInfoInputs.cache
+C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\obj\Debug\net6.0\ping.AssemblyInfo.cs
+C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\obj\Debug\net6.0\ping.csproj.CoreCompileInputs.cache
