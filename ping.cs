@@ -1,10 +1,12 @@
 using System;
-using Statement;
 
 namespace Replace.Number
 {
-  public class Program{
-    public int CreateNumberList(int _userNumber)
+  public class NumberList
+  {
+    public int CreateNumberList { get; set; }
+
+    public NumberList(int _userNumber)
     {
       //List<string> numberList = new List<string> {};
       for (int i = 0; i<= _userNumber; i += 1) 

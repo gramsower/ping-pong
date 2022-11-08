@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ping-pong\\ping.csproj": {}
+    "C:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ping-pong\\Ping.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ping-pong\\ping.csproj": {
+    "C:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ping-pong\\Ping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ping-pong\\ping.csproj",
-        "projectName": "ping",
-        "projectPath": "C:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ping-pong\\ping.csproj",
+        "projectUniqueName": "C:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ping-pong\\Ping.csproj",
+        "projectName": "Ping",
+        "projectPath": "C:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ping-pong\\Ping.csproj",
         "packagesPath": "C:\\Users\\gregr\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\gregr\\Desktop\\Epicodus\\C#\\ping-pong\\obj\\",
         "projectStyle": "PackageReference",

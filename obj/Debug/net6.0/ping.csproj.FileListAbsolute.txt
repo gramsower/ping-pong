@@ -3,3 +3,13 @@ C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\obj\Debug\net6.0\ping.GeneratedMSBu
 C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\obj\Debug\net6.0\ping.AssemblyInfoInputs.cache
 C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\obj\Debug\net6.0\ping.AssemblyInfo.cs
 C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\obj\Debug\net6.0\ping.csproj.CoreCompileInputs.cache
+C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\bin\Debug\net6.0\Ping.deps.json
+C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\bin\Debug\net6.0\Ping.dll
+C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\bin\Debug\net6.0\Ping.pdb
+C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\obj\Debug\net6.0\Ping.dll
+C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\obj\Debug\net6.0\refint\Ping.dll
+C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\obj\Debug\net6.0\Ping.pdb
+C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\obj\Debug\net6.0\ref\Ping.dll
+C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\bin\Debug\net6.0\Ping.exe
+C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\bin\Debug\net6.0\Ping.runtimeconfig.json
+C:\Users\gregr\Desktop\Epicodus\C#\ping-pong\obj\Debug\net6.0\Ping.genruntimeconfig.cache

@@ -4,13 +4,14 @@ using Replace.Number;
 
 namespace Statement
 {
-  class Program
+  public class Program
   {
-    static void Main()
+    public static void Main()
     {
       Console.WriteLine("Please enter a number: ");
       string userNumber = Console.ReadLine();
-      private int _userNumber = int.Parse(userNumber);
+      int _userNumber = int.Parse(userNumber);
+      
     }
   }
 }
